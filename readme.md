@@ -1,4 +1,4 @@
-#httpClientFrontEnd
+
 This is just the sample source code of the frontend. 
 
 In order to use this, you need a tunnel to expose your backend server to the internet. 
